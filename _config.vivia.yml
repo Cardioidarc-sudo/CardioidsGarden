@@ -3,7 +3,7 @@ menu:                      # 导航栏上的链接
   Home: /
   Archives: /archives
   About: /about
-  学习记录: /
+  学习记录: /note
 rss: /atom.xml
 
 home:
