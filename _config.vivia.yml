@@ -4,6 +4,7 @@ menu:                      # 导航栏上的链接
   Archives: /archives
   About: /about
   学习记录: /note
+  delusions: /delusions
 rss: /atom.xml
 
 home:
