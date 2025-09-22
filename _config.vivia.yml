@@ -26,15 +26,15 @@ avatar:                          # 头像图片文件路径，相对于 /source 
 author: Cardioid_arc
 subtitle: 若是花园
 links:
-  - name: Twitter
-    icon: fa-brands fa-twitter      # 访问 https://fontawesome.com/search 获取图标代码
-    url: https://twitter.com
-  - name: Steam
-    icon: fa-brands fa-steam
-    url: https://store.steampowered.com
+  - name: bilibili 
+    icon: fa-brands fa-bilibili      # 访问 https://fontawesome.com/search 获取图标代码
+    url: https://space.bilibili.com/33419596?spm_id_from=333.1007.0.0
+  - name: wordpress-默海
+    icon: fa-brands fa-wordpress
+    url: https://silentbegnia47.wordpress.com
   - name: GitHub
     icon: fa-brands fa-github
-    url: https://github.com
+    url: https://github.com/Cardioidarc-sudo
 
 # 侧边栏
 sidebar:
