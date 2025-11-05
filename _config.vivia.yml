@@ -5,6 +5,7 @@ menu:                      # 导航栏上的链接
   About: /about
   学习记录: /note
   delusions: /delusions
+  CASTOR: /CASTOR
 rss: /atom.xml
 
 home:
