@@ -60,6 +60,8 @@ exclude: null
 ignore: null
 theme: vivia
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:Cardioidarc-sudo/CardioidsGarden.git
+  branch: main
 archive_generator:
   per_page: 0
